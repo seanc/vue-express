@@ -1,12 +1,12 @@
 {
-  "name": "{{ name }}",
-  "description": "{{ description }}",
+  "name": "{{name}}",
+  "description": "{{description}}",
   "version": "0.0.0",
-  "homepage": "https://github.com/{{ author }}/{{ name }}",
+  "homepage": "https://github.com/{{author}}/{{name}}",
   "author": "Sean Wilson (https://imsean.me)",
-  "repository": "{{ author }}/{{ name }}",
+  "repository": "{{author}}/{{name}}",
   "bugs": {
-    "url": "https://github.com/{{ author }}/{{ name }}/issues"
+    "url": "https://github.com/{{author}}/{{name}}/issues"
   },
   "license": "MIT",
   "files": [
@@ -17,7 +17,7 @@
     "LICENSE"
   ],
   "bin": {
-    "{{ name }}": "bin/www"
+    "{{name}}": "bin/www"
   },
   "engines": {
     "node": ">=6"

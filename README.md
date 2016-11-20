@@ -1,17 +1,17 @@
-# {{ name }}
+# {{name}}
 
-> {{ description }}
+> {{description}}
 
 ## Installation
 
 ```sh
-$ npm install -g {{ name }}
+$ npm install -g {{name}}
 ```
 
 ## Usage
 
 ```shell
-$ {{ name }}
+$ {{name}}
 ```
 
 ## License
@@ -26,6 +26,6 @@ It has the following template options:
 
 | Key               | Value                                            |
 |-------------------|--------------------------------------------------|
-| {{ name }}        | app name                                         |
-| {{ description }} | description                                      |
-| {{ author }}      | author's username (recommended: github username) |
+| {{name}}        | app name                                         |
+| {{description}} | description                                      |
+| {{author}}      | author's username (recommended: github username) |
