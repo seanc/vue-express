@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "homepage": "https://github.com/{{ author }}/{{ name }}",
   "author": "Sean Wilson (https://imsean.me)",
-  "repository": "{}{ author }}/{{ name }}",
+  "repository": "{{ author }}/{{ name }}",
   "bugs": {
     "url": "https://github.com/{{ author }}/{{ name }}/issues"
   },
