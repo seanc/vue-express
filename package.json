@@ -11,6 +11,9 @@
   "license": "MIT",
   "files": [
     "bin",
+    "app",
+    "public",
+    "server",
     "LICENSE"
   ],
   "bin": {
